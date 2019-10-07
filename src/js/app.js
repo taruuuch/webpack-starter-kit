@@ -1,1 +1,2 @@
-// Place you JS code to this file :)
+require('normalize.css');
+require('../sass/main.sass');
